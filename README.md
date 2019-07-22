@@ -12,7 +12,7 @@
 
 Go through those tutorials before you start building your classifier:
 
-• https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/                                                • https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+- https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/                                               - - https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
 
 
 ## Installation <a name="installation"></a>
