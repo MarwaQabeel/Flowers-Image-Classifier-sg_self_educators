@@ -15,8 +15,7 @@ Go through those tutorials to help you start building your classifier:
 - https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
 - https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
 - https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/  
-- https://github.com/bonn0062/image_classifier_pytorch.git
-
+- https://github.com/bonn0062/image_classifier_pytorch
 
 ## Installation <a name="installation"></a>
 
