@@ -12,15 +12,15 @@
 
 Go through those tutorials before you start building your classifier:
 
-- https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/  
 - https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+- https://www.freecodecamp.org/news/how-to-build-the-best-image-classifier-3c72010b3d55/  
+- https://github.com/bonn0062/image_classifier_pytorch.git
 
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python, PyTorch and PIL.  The code should run with no issues using Python versions 3.\*, PyTorch, PIL.
 
-You can run jupyter notebook to see the entire model build process, or you can run python scripts to directly train and use the model to recognize the flower image.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -32,11 +32,7 @@ This project is from Udacity's image classification project. It trains CNN model
 
 **cat_to_name.json** It is used in ipynb and py file to map flower number to flower names.
 
-**train_args.py** It is used by predict.py to enable the parameter function.
-
 **train.py** It will train a new network on a dataset and save the model as a checkpoint. 
-
-**predict_args.py** It is used by predict.py to enable the parameter function.
 
 **predict.py** It uses a trained network to predict the class for an input image. 
 
