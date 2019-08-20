@@ -31,7 +31,7 @@ This project is from Udacity's image classification project. It trains CNN model
 
 **cat_to_name.json** It is used in ipynb and py file to map flower number to flower names.
 
-- **Concept
+ - **Methodology**
 
 
 
